@@ -1,0 +1,6 @@
+APP_SYSTEM_NAME=webapp
+APP_SCRIPT=".s2i/run.lisp"
+APP_BUILD_SCRIPT=".s2i/build.lisp"
+APP_MEM=512
+DEV_BACKEND=slynk
+DEV_BACKEND_PORT=4008
