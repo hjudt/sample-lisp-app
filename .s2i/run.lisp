@@ -7,4 +7,4 @@
 (ql:quickload :webapp)
 
 ;; loop to keep the process running
-(loop (sleep 3000))
+(loop (sleep 10))
